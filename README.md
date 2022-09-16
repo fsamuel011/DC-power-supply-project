@@ -10,4 +10,8 @@ I learned how to use AutoCAD 2022 to design the body chassis, Solidworks PCB to 
 
 The DC power supply provides three DC voltage outputs when powered by a 120VAC 60Hz source. The rated DC output voltages are +5VDC (fixed), -15VDC (fixed), and +20VDC (variable). The rated current at each output is 1A.
 
-![image](https://user-images.githubusercontent.com/93152842/190590843-ea3c5b72-6e40-4e1c-a652-81fd0b2fae08.png)
+(1) <img src = "https://user-images.githubusercontent.com/93152842/190590843-ea3c5b72-6e40-4e1c-a652-81fd0b2fae08.png" width=300> (2) <img src="https://user-images.githubusercontent.com/93152842/190592248-6310b6a9-bc00-4940-9e85-5a9601dfdf29.png" width=300> (3) <img src = "https://user-images.githubusercontent.com/93152842/190596077-2c950d55-55ba-49c5-96e9-7ab760715a23.png" width=300> 
+
+(4) <img src="https://user-images.githubusercontent.com/93152842/190595726-69a82747-c126-45bc-b4cb-d207f05b121f.png" width=450> (5) <img src="https://user-images.githubusercontent.com/93152842/190597803-3e283524-5fb2-40d6-ba60-df02986d3a21.png" width=450>
+
+(1) PCB artwork (2) PCB component locator (3) Schematic diagram (4) Interconnect diagram (5) Plan view
