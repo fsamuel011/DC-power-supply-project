@@ -38,7 +38,8 @@ The power supply provides three DC voltage outputs when powered by a 120VAC 60Hz
 
 
 ## Diagrams
- Reference designs were provided by BCIT. 
+ Reference designs were provided by BCIT. I also created a 3D CAD model of the power supply chassis.
+ 
 (1) <img src="https://user-images.githubusercontent.com/93152842/190590843-ea3c5b72-6e40-4e1c-a652-81fd0b2fae08.png" width=350>
 (2) <img src="https://user-images.githubusercontent.com/93152842/190592248-6310b6a9-bc00-4940-9e85-5a9601dfdf29.png" width=350> 
 
