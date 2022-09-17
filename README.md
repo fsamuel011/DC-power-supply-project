@@ -1,5 +1,5 @@
 # DC-power-supply-project
-Designed and built a 30 V DC linear bench power supply
+Designed and built a 30V DC linear bench power supply
 
 A power supply is a great tool for all electrical enthusiasts. My BCIT electrical engineering program included a 4-month course ELEX 1112: Engineering Tools, and a 4-week course ELEX 1102: Electronics Fabrication Tools and Techniques, in which I designed and built a DC linear bench power supply.
 
