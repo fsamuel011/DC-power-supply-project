@@ -12,7 +12,7 @@ A power supply is a great tool for all electrical enthusiasts. My BCIT electrica
 
 I learned how to use AutoCAD 2022 to design the body chassis, Solidworks PCB to design the PCB electrical schematic, and Altium Designer to manually route and verify the PCB component layout. I also learned how to use hand and power tools to solder SHT and TH components onto a PCB, wire the PCB with the internal circuitry, and assemble the metal chassis together to complete the project.
 
-The power supply provides three DC voltage outputs when powered by a 120VAC 60Hz source. The rated DC output voltages are +5VDC (fixed), -15VDC (fixed), and +20VDC (variable). The rated current at each output is 1A.
+The power supply provides three DC voltage outputs when powered by a 120VAC 60Hz source. The rated DC output voltages are +5VDC (fixed), -15VDC (fixed), and +15VDC (variable). The rated current at each output is 1A.
 
 ## Parts list (Electrical)
 
